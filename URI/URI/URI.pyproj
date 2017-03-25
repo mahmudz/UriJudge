@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>5b5e9360-53b3-4648-adfb-c2160d353ed5</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>1138.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>URI</Name>
+    <RootNamespace>URI</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="1021.py" />
+    <Compile Include="1035.py" />
+    <Compile Include="1036.py" />
+    <Compile Include="1037.py" />
+    <Compile Include="1038.py" />
+    <Compile Include="1045.py" />
+    <Compile Include="1068.py" />
+    <Compile Include="1138.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1174.py" />
+    <Compile Include="1581.py" />
+    <Compile Include="1618.py" />
+    <Compile Include="1708.py" />
+    <Compile Include="1715.py" />
+    <Compile Include="1728.py" />
+    <Compile Include="1743.py" />
+    <Compile Include="1759.py" />
+    <Compile Include="1769.py" />
+    <Compile Include="1786.py" />
+    <Compile Include="1787.py" />
+    <Compile Include="1789.py" />
+    <Compile Include="1794.py" />
+    <Compile Include="1795.py" />
+    <Compile Include="1796.py" />
+    <Compile Include="1800.py" />
+    <Compile Include="1803.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1805.py" />
+    <Compile Include="1808.py" />
+    <Compile Include="1827.py" />
+    <Compile Include="1828.py" />
+    <Compile Include="1836.py" />
+    <Compile Include="1837.py" />
+    <Compile Include="1845.py" />
+    <Compile Include="1847.py" />
+    <Compile Include="1848.py" />
+    <Compile Include="1855.py" />
+    <Compile Include="1858.py" />
+    <Compile Include="1864.py" />
+    <Compile Include="1865.py" />
+    <Compile Include="1866.py" />
+    <Compile Include="1867.py" />
+    <Compile Include="1869.py" />
+    <Compile Include="1871.py" />
+    <Compile Include="1873.py" />
+    <Compile Include="1893.py" />
+    <Compile Include="1914.py" />
+    <Compile Include="1921.py" />
+    <Compile Include="1924.py" />
+    <Compile Include="1929.py" />
+    <Compile Include="1930.py" />
+    <Compile Include="1933.py" />
+    <Compile Include="1940.py" />
+    <Compile Include="1943.py" />
+    <Compile Include="1953.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1957.py" />
+    <Compile Include="1958.py" />
+    <Compile Include="1959.py" />
+    <Compile Include="1960.py" />
+    <Compile Include="1961.py" />
+    <Compile Include="1962.py" />
+    <Compile Include="1963.py" />
+    <Compile Include="1973.py" />
+    <Compile Include="1980.py" />
+    <Compile Include="1983.py" />
+    <Compile Include="1984.py" />
+    <Compile Include="1985.py" />
+    <Compile Include="1987.py" />
+    <Compile Include="2003.py" />
+    <Compile Include="2006.py" />
+    <Compile Include="2023.py" />
+    <Compile Include="2028.py" />
+    <Compile Include="2031.py" />
+    <Compile Include="2057.py" />
+    <Compile Include="2059.py" />
+    <Compile Include="2060.py" />
+    <Compile Include="2061.py" />
+    <Compile Include="2062.py" />
+    <Compile Include="2126.py" />
+    <Compile Include="2137.py" />
+    <Compile Include="2139.py" />
+    <Compile Include="2140.py" />
+    <Compile Include="2143.py" />
+    <Compile Include="2146.py" />
+    <Compile Include="2147.py" />
+    <Compile Include="2149.py" />
+    <Compile Include="2152.py" />
+    <Compile Include="2157.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2159.py" />
+    <Compile Include="2160.py" />
+    <Compile Include="2161.py" />
+    <Compile Include="2162.py" />
+    <Compile Include="2163.py" />
+    <Compile Include="2164.py" />
+    <Compile Include="2165.py" />
+    <Compile Include="2166.py" />
+    <Compile Include="2167.py" />
+    <Compile Include="2170.py" />
+    <Compile Include="2172.py" />
+    <Compile Include="2174.py" />
+    <Compile Include="2176.py" />
+    <Compile Include="2187.py" />
+    <Compile Include="2189.py" />
+    <Compile Include="2221.py" />
+    <Compile Include="2222.py" />
+    <Compile Include="2232.py" />
+    <Compile Include="2234.py" />
+    <Compile Include="2235.py" />
+    <Compile Include="2242.py" />
+    <Compile Include="2252.py" />
+    <Compile Include="2310.py" />
+    <Compile Include="2311.py" />
+    <Compile Include="2312.py" />
+    <Compile Include="2313.py" />
+    <Compile Include="2334.py" />
+    <Compile Include="2369.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2372.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2374.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2375.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2381.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2382.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2413.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2444.py" />
+    <Compile Include="2454.py" />
+    <Compile Include="2455.py" />
+    <Compile Include="2456.py" />
+    <Compile Include="2457.py" />
+    <Compile Include="2460.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2464.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2469.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2473.py" />
+    <Compile Include="2483.py" />
+    <Compile Include="2484.py" />
+    <Compile Include="2486.py" />
+    <Compile Include="2504.py" />
+    <Compile Include="2510.py" />
+  </ItemGroup>
+  <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
+  <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
