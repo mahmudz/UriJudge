@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5b5e9360-53b3-4648-adfb-c2160d353ed5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1138.py</StartupFile>
+    <StartupFile>1424.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1174.py" />
+    <Compile Include="1424.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1581.py" />
     <Compile Include="1618.py" />
     <Compile Include="1708.py" />
@@ -146,6 +149,9 @@
     <Compile Include="2311.py" />
     <Compile Include="2312.py" />
     <Compile Include="2313.py" />
+    <Compile Include="2322.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2334.py" />
     <Compile Include="2369.py">
       <SubType>Code</SubType>
@@ -188,6 +194,9 @@
     <Compile Include="2486.py" />
     <Compile Include="2504.py" />
     <Compile Include="2510.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="input.txt" />
   </ItemGroup>
   <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
   <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
